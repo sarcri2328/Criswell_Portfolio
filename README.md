@@ -16,6 +16,13 @@ My Portfolio using GitHub Pages
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Work in progress, stay tuned
+### Work in progress, stay tuned!
+
+-Contact section
+-Education section
+-Notable Projects
+-Work History
+-Skills and Experience
+-Blog posts with updates
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
