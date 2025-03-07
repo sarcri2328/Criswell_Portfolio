@@ -1,4 +1,4 @@
 ---
-title: Sarah Criswell - Junior Software Engineer
+title: Home
 ---
 [Education](/education.md)
