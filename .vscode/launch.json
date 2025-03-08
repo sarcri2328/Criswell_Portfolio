@@ -8,7 +8,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open test.html",
-            "file": "c:\\Users\\ravyn\\OneDrive\\Documents\\GitHub\\my-github-pages\\test.html"
+            "file": "c:\\Users\\ravyn\\OneDrive\\Documents\\GitHub\\my-github-pages\\index.html"
         }
     ]
 }
