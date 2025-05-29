@@ -1,13 +1,15 @@
-body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
+ul {
+  list-style: inside circle;
+}
+ul.outside {
+  list-style-position: outside;
+}
+li {
+  margin: 10px 10px 10px 30px;
+}
+.white-separator {
+  border: none; /* Remove default border */
+  height: 3px; /* Set the thickness of the line */
+  background-color: #ffffff; /* Set the color of the line */
+  margin: 20px 0; /* Add some space above and below */
+}
