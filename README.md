@@ -2,7 +2,7 @@
 
 My Portfolio using GitHub Pages
 
-Click [here](https://sarcri2328.github.io/my-github-pages/) to open
+Click [here](https://sarcri2328.github.io/Criswell_Portfolio/) to open
 
 </header>
 
