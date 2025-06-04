@@ -13,3 +13,8 @@ li {
   background-color: #ffffff; /* Set the color of the line */
   margin: 20px 0; /* Add some space above and below */
 }
+video {
+  border: solid;
+  border-color: white;
+  border-width: thick;
+}
